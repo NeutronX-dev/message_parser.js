@@ -1,0 +1,13 @@
+{
+  "name": "message_parser.js",
+  "version": "1.0.1",
+  "description": "A quick script that parses messages.",
+  "main": "MessageParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["discord.js", "bot", "bot tools", "message parser", "message_parser", "message_parser.js"],
+  "homepage": "https://github.com/NeutronX-dev/message_parser.js",
+  "author": "",
+  "license": "ISC"
+}
